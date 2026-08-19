@@ -1,6 +1,6 @@
 /*
-Question: What are the top-paying data or business analyst jobs?
-- Identify the top 10 highest-paying Data Analyst roles that are available remotely or in Canada
+Question: What are the top-paying Data and Business Analyst jobs?
+- Identify the top 10 highest-paying Data and Business Analyst roles that are available remotely or in Canada
 - Focus on job postings with specified salaries (remove nulls)
 - BONUS: Include company names of top 10 roles
 - Why? Highlight the top-paying opportunities for Data and Business Analysts, offering insights into employment options and location flexibility.
