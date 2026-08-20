@@ -371,6 +371,7 @@ Throughout this project, I strengthened my SQL skills and gained more practical 
 
 # Conclusion
 
+### Insights
 
 From the analysis, several general insights emerged:
 
@@ -385,7 +386,7 @@ The highest-paying skills are concentrated around **big data, machine learning, 
 5. **The best strategy combines high demand with specialized skills.**
 **Python** provides one of the strongest combinations of demand and compensation, while **Databricks, Snowflake, Azure, AWS, and BigQuery** offer higher salary potential with lower demand. Overall, combining **Python + SQL + BI tools + cloud/data** platforms would provide a strong foundation for pursuing Canadian and remote Data Analyst and Business Analyst opportunities.
 
-# Closing Thoughts
+### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
 
