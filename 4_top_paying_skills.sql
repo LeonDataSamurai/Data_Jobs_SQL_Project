@@ -1,7 +1,7 @@
 /*
 Answer: What are the top skills based on salary?
-- Look at the average salary associated with each skill for Data and Business Analyst positions
-- Focuses on roles with specified salaries, regardless of location
+- Look at the average salary associated with each skill for Data and Business Analyst positions in Canada or remotely
+- Focuses on roles with specified salaries
 - Why? It reveals how different skills impact salary levels for Data and Business Analysts and 
     helps identify the most financially rewarding skills to acquire or improve
 */
@@ -36,7 +36,7 @@ showing that technical infrastructure skills can complement traditional analytic
 
 -An interesting takeaway is that specialized technical skills appear to command higher salaries than basic analyst tools in this dataset. 
 The highest-paying skills are not primarily Excel or visualization tools; 
-instead, they lean toward big data, machine learning, programming, cloud, and DevOps.
+Instead, they lean toward big data, machine learning, programming, cloud computing, and DevOps.
 
 [
   {
