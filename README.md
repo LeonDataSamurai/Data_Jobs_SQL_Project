@@ -60,7 +60,7 @@ LIMIT 10
 
 - Companies like **Meta, AT&T, Pinterest, Uber, and SmartAsset** demonstrate strong compensation for professionals with advanced data and business intelligence expertise.
 </br>
-<img src="Assets/Highest Paying Jobs.jpg" alt="Highest Paying Jobs Bar Graph">
+<img src="Assets/Highest_Paying_Jobs.jpg" alt="Highest Paying Jobs Bar Graph">
 <i>Bar graph visualizing the salary for the top 10 salaries for data analysts; Canva AI generated this graph from my SQL query results</i>
 
 </br>
@@ -109,7 +109,7 @@ Here's the breakdown of the most demanded skills for data and business analysts 
 
 3. Other skills like **R, Pandas, AWS and Snowflake** show varying degrees of demand.
 </br>
-<img src='Assets/Most In-Demand Skills.jpg' alt='Top In-Demand Skills'>
+<img src='Assets/Most_In-Demand_Skills.jpg' alt='Top In-Demand Skills'>
 <i>Bar graph visualizing the count of skills for selected jobs for data and business analysts; Canva AI generated this graph from my SQL query results</i>
 
 
