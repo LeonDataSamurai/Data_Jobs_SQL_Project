@@ -1,8 +1,7 @@
 /*
-Question: What are the most in-demand skills for data and business analysts?
-- Join job postings to inner join table similar to query 2
+Question: What are the most in-demand skills for data and business analysts in Canada and remotely?
+- Join job postings to an inner join table similar to query 2
 - Identify the top 5 in-demand skills for a data and business analyst.
-- Focus on all job postings in Canada or remote.
 - Why? Retrieves the top 5 skills with the highest demand in the job market, 
     providing insights into the most valuable skills for job seekers.
 */
@@ -24,9 +23,10 @@ ORDER BY
 LIMIT 5;
 
 /*
-The results show that SQL is by far the most in-demand skill, appearing in 9,881 Data and Business Analyst job postings in Canada or remote positions.
+The results show that SQL is by far the most in-demand skill, appearing in 9,881 Data and Business Analyst job postings in Canada or remotely.
 Excel ranks second with 6,571 postings, followed by Python (5,653) and Tableau (5,081).
-Power BI, with 3,767 postings, is also highly valued, highlighting the importance of combining database, spreadsheet, programming, and data visualization skills for today’s analyst roles.
+Power BI, with 3,767 postings, is also highly valued, highlighting the importance of combining database, spreadsheet, 
+programming, and data visualization skills for today’s analyst roles.
 
 [
   {
