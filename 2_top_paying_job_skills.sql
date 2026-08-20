@@ -1,6 +1,6 @@
 /*
-Question: What skills are required for the top-paying data and business analyst jobs?
-- Use the top 10 highest-paying Data Analyst and Business Analyst jobs from first query
+Question: What skills are required for the top-paying data and business analyst jobs in Canada or remote positions?
+- Use the top 10 highest-paying Data Analyst and Business Analyst jobs from the first query
 - Add the specific skills required for these roles
 - Why? It provides a detailed look at which high-paying jobs demand certain skills,
     helping job seekers understand which skills to develop that align with top salaries
@@ -37,8 +37,8 @@ ORDER BY
 
 
 /*
-Here's the breakdown of the most demanded skills for data and business analysts, based on job postings
-(Includes only 6 out of 10 initial postings as other 4 postings did not have any skills listed):
+Here's the breakdown of the most demanded skills for data and business analysts in Canada and remote, based on job postings
+(Includes only 6 out of 10 initial postings as the other 4 postings did not have any skills listed):
 Python, SQL and Tableau are leading with a count of 5.
 Excel follows closely with a count of 3.
 Other skills like R, Pandas, AWS and Snowflake show varying degrees of demand.
