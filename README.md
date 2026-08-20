@@ -28,7 +28,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 ### 1. Top Paying Data and Business Analyst Jobs 
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on Canada and remote jobs. This query highlights the high-paying opportunities in the field.
 
-'''
+```sql
 SELECT	
 	job_id,
 	job_title,
@@ -46,8 +46,16 @@ WHERE
     salary_year_avg IS NOT NULL
 ORDER BY
     salary_year_avg DESC
-LIMIT 10;
-'''
+LIMIT 10
+```
+
+### Insights
+
+- The highest-paying roles exceed **$200K annually**, with the top Data Analyst position reaching an exceptional **$650K**.
+- **Leadership and advanced analytics roles** such as Director of Analytics and Associate Director of Data Insights command some of the highest salaries.
+- Companies like **Meta, AT&T, Pinterest, Uber, and SmartAsset** demonstrate strong compensation for professionals with advanced data and business intelligence expertise.
+
+![Highest_Paying_Jobs](Assets/Highest Paying Jobs.jpg)
 
 # What I Learned
 # Conclusion
